@@ -1,4 +1,4 @@
-## COMPGW02/M041 Web Economics Optimised Bidding System
+## COMPGW02/M041 Web Economics Combined Bidding System
 
 
 As part of the COMPGW01 Web Economics Assignment Group 23 were assigned a task to predict the number of clicks in an unseen test set
